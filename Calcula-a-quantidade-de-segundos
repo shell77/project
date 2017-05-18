@@ -1,4 +1,6 @@
 # Hi
+#python3
+
 dias = int(input("quantidade de dias: "))
 horas = int(input("quantidade de horas: "))
 minutos = int(input("minutos: "))
